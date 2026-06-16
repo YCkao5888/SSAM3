@@ -1,4 +1,6 @@
-# SSAM Executables and CSV2BIN Utility
+# Traffic Conflict Extended information
+
+## SSAM Executables and CSV2BIN Utility
 
 This repository provides a project environment for organizing FHWA Surrogate Safety Assessment Model (SSAM) related executable files and a bundled utility named `CSV2BIN`.
 
@@ -43,3 +45,8 @@ The exact input and output format should be verified against the documentation o
 
 ```bash
 Csv2Bin.exe [input_csv_path] [output_bin_path]
+```
+
+##  other data
+- traffic_light
+- classes_vehicle8cls.txt：model data
